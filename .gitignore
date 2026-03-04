@@ -2,5 +2,7 @@
 .claude/commands/
 .logs/
 .beads/
+.venv/
 __pycache__/
 *.pyc
+.pytest_cache/
