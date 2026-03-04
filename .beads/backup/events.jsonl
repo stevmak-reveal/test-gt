@@ -6,3 +6,21 @@
 {"actor":"deacon","comment":null,"created_at":"2026-03-04T11:27:34Z","event_type":"closed","id":6,"issue_id":"hq-02w","new_value":"Closed","old_value":""}
 {"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:27:41Z","event_type":"created","id":7,"issue_id":"hq-cv-3wq","new_value":"","old_value":""}
 {"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:27:47Z","event_type":"closed","id":8,"issue_id":"hq-cv-3wq","new_value":"Empty convoy (0 tracked issues) — auto-closed as definitionally complete","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:28:26Z","event_type":"created","id":9,"issue_id":"hq-cv-kyx","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:28:47Z","event_type":"closed","id":10,"issue_id":"hq-cv-kyx","new_value":"Empty convoy (0 tracked issues) — auto-closed as definitionally complete","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-04T11:28:48Z","event_type":"created","id":11,"issue_id":"hq-cv-hl5","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:29:17Z","event_type":"closed","id":12,"issue_id":"hq-cv-hl5","new_value":"Empty convoy (0 tracked issues) — auto-closed as definitionally complete","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-04T11:30:52Z","event_type":"created","id":13,"issue_id":"hq-cv-yi5","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:31:17Z","event_type":"closed","id":14,"issue_id":"hq-cv-yi5","new_value":"Empty convoy (0 tracked issues) — auto-closed as definitionally complete","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:36:23Z","event_type":"created","id":15,"issue_id":"hq-cv-4ng","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:36:47Z","event_type":"closed","id":16,"issue_id":"hq-cv-4ng","new_value":"Empty convoy (0 tracked issues) — auto-closed as definitionally complete","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:37:15Z","event_type":"created","id":17,"issue_id":"hq-2tr","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:38:07Z","event_type":"created","id":18,"issue_id":"hq-d9l","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:38:33Z","event_type":"created","id":19,"issue_id":"hq-cv-khz","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:38:47Z","event_type":"closed","id":20,"issue_id":"hq-cv-khz","new_value":"Empty convoy (0 tracked issues) — auto-closed as definitionally complete","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:39:57Z","event_type":"created","id":21,"issue_id":"hq-cv-qgm","new_value":"","old_value":""}
+{"actor":"stevmak-reveal","comment":null,"created_at":"2026-03-04T11:40:17Z","event_type":"closed","id":22,"issue_id":"hq-cv-qgm","new_value":"Empty convoy (0 tracked issues) — auto-closed as definitionally complete","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-04T11:42:22Z","event_type":"created","id":23,"issue_id":"hq-4tx","new_value":"","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-04T11:42:29Z","event_type":"created","id":24,"issue_id":"hq-3l5","new_value":"","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-04T11:42:38Z","event_type":"created","id":25,"issue_id":"hq-7q5","new_value":"","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-04T11:42:55Z","event_type":"created","id":26,"issue_id":"hq-cv-gmh","new_value":"","old_value":""}
